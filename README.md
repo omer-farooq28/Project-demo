@@ -13,7 +13,7 @@ A simple calculator application built using **lambda functions** to perform basi
 * Clean and simple logic
 * Beginner-friendly project
 
-## Technologies Used
+## Language Used
 
 * Python
 

@@ -31,3 +31,5 @@ while True:
         print("Result:", div(a, b))
     else:
         print("Invalid choice!")
+
+print("*********************************")
